@@ -3,10 +3,10 @@
 ## Aufgabenteil A:
 
 Schreibe folgende Werte in der Konsole aus:
-*Deinen Vornamen
-*Deinen Nachnamen
-*Deine Stadt
-*Dein Bundesland
+* Deinen Vornamen
+* Deinen Nachnamen
+* Deine Stadt
+* Dein Bundesland
 
 Verwende für jede Zeile eine eigene Konsolenausgabe.
 
